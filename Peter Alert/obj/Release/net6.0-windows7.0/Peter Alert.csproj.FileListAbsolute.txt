@@ -1,0 +1,18 @@
+C:\Users\veast\wwwww\Peter Alert\Peter Alert\bin\Release\net6.0-windows7.0\Peter Alert.exe
+C:\Users\veast\wwwww\Peter Alert\Peter Alert\bin\Release\net6.0-windows7.0\Peter Alert.deps.json
+C:\Users\veast\wwwww\Peter Alert\Peter Alert\bin\Release\net6.0-windows7.0\Peter Alert.runtimeconfig.json
+C:\Users\veast\wwwww\Peter Alert\Peter Alert\bin\Release\net6.0-windows7.0\Peter Alert.dll
+C:\Users\veast\wwwww\Peter Alert\Peter Alert\bin\Release\net6.0-windows7.0\Peter Alert.pdb
+C:\Users\veast\wwwww\Peter Alert\Peter Alert\obj\Release\net6.0-windows7.0\Peter Alert.csproj.AssemblyReference.cache
+C:\Users\veast\wwwww\Peter Alert\Peter Alert\obj\Release\net6.0-windows7.0\Peter_Alert.Form1.resources
+C:\Users\veast\wwwww\Peter Alert\Peter Alert\obj\Release\net6.0-windows7.0\Peter_Alert.Properties.Resources.resources
+C:\Users\veast\wwwww\Peter Alert\Peter Alert\obj\Release\net6.0-windows7.0\Peter Alert.csproj.GenerateResource.cache
+C:\Users\veast\wwwww\Peter Alert\Peter Alert\obj\Release\net6.0-windows7.0\Peter Alert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veast\wwwww\Peter Alert\Peter Alert\obj\Release\net6.0-windows7.0\Peter Alert.AssemblyInfoInputs.cache
+C:\Users\veast\wwwww\Peter Alert\Peter Alert\obj\Release\net6.0-windows7.0\Peter Alert.AssemblyInfo.cs
+C:\Users\veast\wwwww\Peter Alert\Peter Alert\obj\Release\net6.0-windows7.0\Peter Alert.csproj.CoreCompileInputs.cache
+C:\Users\veast\wwwww\Peter Alert\Peter Alert\obj\Release\net6.0-windows7.0\Peter Alert.dll
+C:\Users\veast\wwwww\Peter Alert\Peter Alert\obj\Release\net6.0-windows7.0\refint\Peter Alert.dll
+C:\Users\veast\wwwww\Peter Alert\Peter Alert\obj\Release\net6.0-windows7.0\Peter Alert.pdb
+C:\Users\veast\wwwww\Peter Alert\Peter Alert\obj\Release\net6.0-windows7.0\Peter Alert.genruntimeconfig.cache
+C:\Users\veast\wwwww\Peter Alert\Peter Alert\obj\Release\net6.0-windows7.0\ref\Peter Alert.dll
